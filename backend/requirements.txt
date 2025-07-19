@@ -3,5 +3,5 @@ uvicorn[standard]
 pydantic
 numpy
 pillow
-tensorflow
+tensorflow==2.15.0
 python-multipart
