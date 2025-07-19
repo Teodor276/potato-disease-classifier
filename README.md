@@ -1,7 +1,7 @@
 # 🌿 Potato Disease Classifier – CNN + FastAPI
 
 > **Live Demo**: Try it here 👉 [🔗 Plant Disease Predictor](https://potato-disease-classifier-frontend.onrender.com)  
-> _(Note: The backend is hosted on **Render**, so the first request may take 1–2 minutes to respond while the server wakes up.)_
+> _(Note: The backend is hosted on **Render**'s free tier, so the first request may take 1–2 minutes to respond while the server wakes up.)_
 
 ---
 
