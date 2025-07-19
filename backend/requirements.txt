@@ -1,5 +1,7 @@
 fastapi
 uvicorn[standard]
-tensorflow>=2.10
-pillow
+pydantic
 numpy
+pillow
+tensorflow
+python-multipart
